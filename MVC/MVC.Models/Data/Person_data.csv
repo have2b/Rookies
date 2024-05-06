@@ -1,0 +1,101 @@
+FirstName,LastName,Gender,DateOfBirth,PhoneNumber,BirthPlace,IsGraduated
+Luis,Spalls,1,1994/01/12,446-942-3366,54626 Eliot Circle,true
+Van,Sweating,2,1991/11/15,243-193-3651,5 Everett Alley,false
+Peter,Sparrowhawk,1,1992/03/24,685-519-2058,4810 7th Point,true
+Jeralee,Narey,1,1991/01/22,612-874-6529,8892 Hooker Drive,true
+Dorris,MacDearmid,0,1992/05/22,840-740-8964,1 Fairfield Place,false
+Cara,Keher,2,1998/04/03,421-448-0016,44 Briar Crest Avenue,true
+Hobard,Jedrasik,2,1993/12/06,879-245-6672,0392 Cottonwood Crossing,false
+Kandace,Newnham,1,1994/06/11,964-146-2631,44496 Maywood Park,false
+Shelli,Bertwistle,2,2002/02/14,210-873-6400,14380 Rockefeller Parkway,true
+Marianna,Kenneford,2,1992/08/20,481-582-4454,7188 Hollow Ridge Point,true
+Bengt,Kemble,0,1999/07/26,374-427-9821,28463 Paget Junction,false
+Bernadene,Dauber,2,1994/01/02,795-916-9587,8 Eliot Street,true
+Manya,Hasel,2,1992/02/03,999-526-3894,56972 Del Sol Avenue,true
+Jarret,Hamal,2,2000/12/01,186-728-0712,18 South Pass,true
+Khalil,McAlester,2,1999/07/02,172-992-0987,71017 Chive Court,false
+Blythe,Allred,0,1990/06/07,965-484-0023,6387 Barby Lane,true
+Annette,Tordiffe,2,1995/06/21,264-965-3712,22072 Scott Plaza,true
+Otis,Trussell,2,1993/07/30,422-136-5496,78 Shelley Street,false
+Harper,Ennew,2,1990/09/14,612-763-5299,100 Hudson Park,false
+Jefferson,Pond-Jones,2,2001/10/09,814-386-6258,78 Bay Point,false
+Marget,Scullard,2,1994/11/02,293-359-4963,50 Pleasure Place,false
+Guglielma,Merrikin,1,1991/12/03,931-626-2240,09823 Stone Corner Point,false
+Waldo,Trematick,1,1990/07/12,499-952-3572,39349 Chive Court,true
+Rourke,Oliva,1,2000/07/12,315-930-6537,41 Eagan Plaza,true
+Patin,Jarry,2,1990/10/22,746-670-5855,64 Sundown Crossing,false
+Irvine,Hulcoop,1,1996/05/18,809-334-3446,25228 Tennyson Parkway,false
+Morty,Burbage,1,1995/02/18,731-198-8548,0 Derek Terrace,false
+Kelley,Kemet,2,1995/11/19,225-899-0183,39 Artisan Hill,false
+Niels,Tranter,0,1992/03/10,215-926-5611,060 Arizona Way,true
+Anthe,Isacoff,1,1995/10/05,672-685-6359,0 Paget Trail,true
+Pascale,Shallcrass,2,1995/10/09,562-354-9958,5 Beilfuss Crossing,true
+Roselia,Bilbrook,1,1991/12/11,245-518-5227,9 Grayhawk Drive,true
+Sonny,Upwood,1,1993/10/05,558-749-3784,4 Cody Plaza,false
+Leslie,Fitchet,1,1993/09/08,301-807-1569,45 Coolidge Court,true
+Aldis,Durtnal,1,1998/11/20,865-124-1077,20 Lake View Circle,true
+Conrado,Gniewosz,1,1998/08/29,620-464-0691,453 Pawling Crossing,true
+Barbi,Hyett,2,2001/05/30,331-754-9940,6581 Little Fleur Terrace,true
+Stern,Leindecker,2,1992/01/27,899-823-5467,497 Elgar Point,true
+Lorinda,Tames,1,2000/11/01,499-606-3372,20328 Cherokee Parkway,true
+Garwin,Labell,0,1998/01/26,187-627-6087,9 Mendota Street,false
+Isahella,Stitle,0,1994/01/25,182-788-1278,612 Di Loreto Crossing,true
+Marty,Shimmin,2,1998/09/24,548-748-0809,8 South Lane,false
+Mellie,Mathevon,1,1993/07/03,525-252-3166,4177 Maryland Way,false
+Siffre,Corsan,1,1994/05/08,597-478-9834,59171 Larry Trail,false
+Nefen,Baskeyfied,2,1996/02/07,637-331-9585,543 Prairieview Alley,false
+Zedekiah,Gorke,0,1996/01/25,176-934-4956,087 Nevada Point,false
+Deva,Mortlock,2,1999/07/21,399-977-4333,9 Donald Pass,true
+Anallise,Scolts,1,1991/06/12,672-945-1232,5 Oak Valley Street,false
+Anastasie,Bullier,2,2002/04/23,808-518-9750,7852 Grim Drive,true
+Jeno,Blest,0,1993/08/27,286-505-2623,576 Esker Way,true
+Alis,Fattore,1,1992/06/04,349-138-5443,9 Debra Drive,false
+Ericha,Bamber,2,1993/02/10,913-467-5512,316 Lotheville Point,true
+Andonis,Videler,2,1990/12/20,124-783-0800,60329 Summer Ridge Street,true
+Melvin,Smallcomb,2,1992/10/04,754-797-0197,4247 Goodland Road,false
+Claudetta,Robiot,0,1996/09/03,186-687-2590,260 Jenna Crossing,false
+Nevins,Lankester,2,1994/04/24,402-322-8837,3 Veith Junction,true
+Natale,Felce,1,1993/05/30,907-910-8917,95 Buhler Point,true
+Falkner,Allwell,1,2001/09/20,795-797-3031,8440 Sutteridge Lane,false
+Georgina,Filintsev,0,2002/02/09,543-887-1013,9 Brentwood Crossing,false
+Edik,Smitheman,1,1993/11/06,339-375-0128,81 Cherokee Place,false
+Zabrina,Reignould,1,1995/03/22,473-656-8116,15567 Armistice Drive,false
+Roland,Gillam,1,1994/11/08,453-864-5433,1 1st Court,true
+Wendi,Lincey,0,2001/01/19,570-407-9506,43 Crowley Pass,true
+Tomaso,Duckels,0,2000/08/24,418-959-4032,98 Pine View Terrace,true
+Amberly,Magwood,0,1992/10/07,250-403-2263,6 Gateway Pass,false
+Weidar,Morshead,1,1995/02/02,451-856-6061,047 Claremont Plaza,true
+Albertina,Szach,1,1999/10/22,531-640-2586,12 Arizona Plaza,false
+Amelita,Marusik,0,1993/03/26,322-907-8824,4 Muir Crossing,false
+Cassie,Linham,2,1992/11/25,475-588-6416,1 Browning Alley,false
+Kati,Lemmanbie,2,1999/11/26,778-603-4070,82 5th Place,true
+Wally,Kensett,2,1996/06/01,875-229-9574,71 Havey Circle,true
+Bart,Dawes,1,1991/05/16,448-239-9173,5 Montana Street,true
+Eadie,Densey,0,1993/01/28,494-948-1035,1999 Hintze Pass,false
+Kial,Gingold,0,1996/12/21,578-526-3304,48 Westend Point,false
+Tricia,Tournay,1,2000/05/06,692-172-6292,924 Scoville Hill,true
+Aryn,Teulier,1,2001/12/23,491-404-2685,013 Heath Place,false
+Charlene,Impy,0,1995/11/13,799-760-1318,4 Thompson Crossing,true
+Alvy,Peyton,1,1994/02/26,921-699-1461,865 Springview Way,false
+Benito,Rushsorth,0,1993/12/23,209-188-6936,21349 Hanover Junction,true
+Carla,Humbles,1,1997/02/27,753-468-2421,923 Lunder Court,false
+Burg,Lothean,1,1999/07/21,678-180-3056,6642 Armistice Drive,true
+Ludwig,Poile,2,1995/05/07,531-835-8724,243 Crescent Oaks Park,false
+Tiphanie,Roome,1,1998/08/10,781-784-1005,4068 Gulseth Trail,true
+Joceline,Seckington,0,1998/07/31,917-506-7851,4078 Marquette Hill,false
+Drusi,Scirman,2,1992/04/14,760-483-0297,1977 1st Lane,true
+Mathilde,Puttrell,1,2000/08/06,840-714-0317,77 Surrey Circle,false
+Heidie,Zucker,2,1995/03/22,943-274-8979,272 Waxwing Drive,false
+Yalonda,Riolfo,2,1990/05/17,747-291-2090,806 Pleasure Parkway,true
+Fredi,Franciotti,0,1999/10/06,225-808-1547,8054 Ilene Street,true
+Packston,Bugler,2,2002/01/20,510-747-4855,2601 Rieder Parkway,true
+Miltie,Kenford,1,2001/01/30,596-449-5393,11 Oxford Street,false
+Armando,Anthoney,0,1999/03/22,414-181-8242,453 Rieder Court,false
+Ferdinanda,Skone,1,2002/03/17,419-157-3940,16192 Helena Park,true
+Starla,Gallienne,0,1999/03/14,987-504-4721,26 Stuart Street,true
+Aliza,Gemelli,2,1995/12/09,773-287-4946,5317 Spohn Hill,true
+Opalina,Birkmyre,2,1994/12/02,250-883-1522,9 Nova Drive,false
+Pancho,Bogaert,2,1999/02/04,915-297-5018,330 Thackeray Point,false
+Lanna,Greger,2,1993/09/19,934-563-7242,3 Maple Wood Road,true
+Willette,Marshal,2,1993/06/23,892-244-6374,74 Morning Plaza,true
+Ruthy,Coiley,2,1996/04/18,485-400-5169,1736 1st Crossing,false
