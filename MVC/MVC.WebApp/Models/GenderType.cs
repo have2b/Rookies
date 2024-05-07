@@ -1,8 +1,8 @@
-﻿namespace MVC.Models.Models
+namespace MVC.WebApp.Models
 {
     public enum GenderType
     {
-        Unknow = 0,
+        Unknown = 0,
         Male = 1,
         Female = 2
     }
