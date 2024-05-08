@@ -10,10 +10,15 @@ namespace API.Controllers
 {
     [ApiController]
     [Route("api/tasks")]
-    public class TasksController(ILogger<TasksController> logger) : ControllerBase
+    public class TasksController : ControllerBase
     {
         private static readonly List<TaskModel> _tasks = LoadFromCsv();
-        private readonly ILogger<TasksController> _logger = logger;
+        private static ILogger<TasksController> _logger;
+
+        public TasksController(ILogger<TasksController> logger)
+        {
+            _logger = logger;
+        }
 
         private static List<TaskModel> LoadFromCsv()
         {
@@ -25,8 +30,7 @@ namespace API.Controllers
             }
             catch (Exception ex)
             {
-                Console.WriteLine($"Error loading data from CSV: {ex.Message}");
-
+                _logger.LogError(ex, "Error loading data from CSV");
                 return [];
             }
         }
