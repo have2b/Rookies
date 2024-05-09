@@ -1,5 +1,5 @@
 ﻿using System.Globalization;
-using API.Contracts;
+using API.Interfaces;
 using API.DTOs;
 using API.Models;
 using CsvHelper;
@@ -73,11 +73,27 @@ namespace API.Services
             }
         }
 
-        public List<Person> GetAll()
+        public List<Person> GetAll(string? name, GenderType? gender, string? birthPlace)
         {
             try
             {
-                return _people;
+                var people = _people.AsQueryable();
+                if (!string.IsNullOrEmpty(name))
+                {
+                    people = people.Where(p => p.FullName.Contains(name));
+                }
+
+                if (gender != null)
+                {
+                    people = people.Where(p => p.Gender == gender);
+                }
+
+                if (!string.IsNullOrEmpty(birthPlace))
+                {
+                    people = people.Where(p => p.BirthPlace.Contains(birthPlace));
+                }
+
+                return [.. people];
             }
             catch (Exception ex)
             {

@@ -1,5 +1,5 @@
 ﻿using System.Net;
-using API.Contracts;
+using API.Interfaces;
 using API.DTOs;
 using API.Models;
 using Microsoft.AspNetCore.Mvc;
@@ -24,23 +24,7 @@ namespace API.Controllers
         {
             try
             {
-                var people = _personService.GetAll().AsQueryable();
-
-                if (!string.IsNullOrEmpty(name))
-                {
-                    people = people.Where(p => p.FullName.Contains(name));
-                }
-
-                if (gender != null)
-                {
-                    people = people.Where(p => p.Gender == gender);
-                }
-
-                if (!string.IsNullOrEmpty(birthPlace))
-                {
-                    people = people.Where(p => p.BirthPlace.Contains(birthPlace));
-                }
-
+                var people = _personService.GetAll(name, gender, birthPlace);
                 return Ok(people);
             }
             catch (Exception ex)

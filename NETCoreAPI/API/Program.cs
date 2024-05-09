@@ -1,4 +1,4 @@
-using API.Contracts;
+using API.Interfaces;
 using API.Services;
 
 var builder = WebApplication.CreateBuilder(args);
