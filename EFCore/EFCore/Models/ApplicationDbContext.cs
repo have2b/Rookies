@@ -4,17 +4,9 @@ namespace EFCore.Models
 {
     public class ApplicationDbContext : DbContext
     {
-        protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
+        public ApplicationDbContext(DbContextOptions<ApplicationDbContext> options) : base(options)
         {
-            base.OnConfiguring(optionsBuilder);
-            var builder = new ConfigurationBuilder()
-                .SetBasePath(Directory.GetCurrentDirectory())
-                .AddJsonFile("appsettings.json", true, true);
-
-            var config = builder.Build();
-            optionsBuilder.UseSqlServer(config.GetConnectionString("DB"));
         }
-
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             base.OnModelCreating(modelBuilder);
