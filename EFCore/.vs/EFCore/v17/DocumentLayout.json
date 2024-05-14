@@ -1,34 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\WORK\\NASHTECH\\Rookies\\EFCore\\",
+  "WorkspaceRootPath": "E:\\WORK\\NASHTECH\\tmp\\Rookies\\EFCore\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CB4680BD-E979-4E6C-8910-C5383980BCD3}|EFCore\\EFCore.csproj|e:\\work\\nashtech\\rookies\\efcore\\efcore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{CB4680BD-E979-4E6C-8910-C5383980BCD3}|EFCore\\EFCore.csproj|solutionrelative:efcore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{CB4680BD-E979-4E6C-8910-C5383980BCD3}|EFCore\\EFCore.csproj|e:\\work\\nashtech\\tmp\\rookies\\efcore\\efcore\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB4680BD-E979-4E6C-8910-C5383980BCD3}|EFCore\\EFCore.csproj|solutionrelative:efcore\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CB4680BD-E979-4E6C-8910-C5383980BCD3}|EFCore\\EFCore.csproj|e:\\work\\nashtech\\rookies\\efcore\\efcore\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CB4680BD-E979-4E6C-8910-C5383980BCD3}|EFCore\\EFCore.csproj|solutionrelative:efcore\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CB4680BD-E979-4E6C-8910-C5383980BCD3}|EFCore\\EFCore.csproj|e:\\work\\nashtech\\tmp\\rookies\\efcore\\efcore\\repositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB4680BD-E979-4E6C-8910-C5383980BCD3}|EFCore\\EFCore.csproj|solutionrelative:efcore\\repositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CB4680BD-E979-4E6C-8910-C5383980BCD3}|EFCore\\EFCore.csproj|e:\\work\\nashtech\\rookies\\efcore\\efcore\\models\\salary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CB4680BD-E979-4E6C-8910-C5383980BCD3}|EFCore\\EFCore.csproj|solutionrelative:efcore\\models\\salary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CB4680BD-E979-4E6C-8910-C5383980BCD3}|EFCore\\EFCore.csproj|e:\\work\\nashtech\\rookies\\efcore\\efcore\\models\\projectemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CB4680BD-E979-4E6C-8910-C5383980BCD3}|EFCore\\EFCore.csproj|solutionrelative:efcore\\models\\projectemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CB4680BD-E979-4E6C-8910-C5383980BCD3}|EFCore\\EFCore.csproj|e:\\work\\nashtech\\rookies\\efcore\\efcore\\models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CB4680BD-E979-4E6C-8910-C5383980BCD3}|EFCore\\EFCore.csproj|solutionrelative:efcore\\models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CB4680BD-E979-4E6C-8910-C5383980BCD3}|EFCore\\EFCore.csproj|e:\\work\\nashtech\\rookies\\efcore\\efcore\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CB4680BD-E979-4E6C-8910-C5383980BCD3}|EFCore\\EFCore.csproj|solutionrelative:efcore\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CB4680BD-E979-4E6C-8910-C5383980BCD3}|EFCore\\EFCore.csproj|e:\\work\\nashtech\\rookies\\efcore\\efcore\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CB4680BD-E979-4E6C-8910-C5383980BCD3}|EFCore\\EFCore.csproj|solutionrelative:efcore\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CB4680BD-E979-4E6C-8910-C5383980BCD3}|EFCore\\EFCore.csproj|e:\\work\\nashtech\\tmp\\rookies\\efcore\\efcore\\repositories\\interfaces\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB4680BD-E979-4E6C-8910-C5383980BCD3}|EFCore\\EFCore.csproj|solutionrelative:efcore\\repositories\\interfaces\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,97 +22,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "E:\\WORK\\NASHTECH\\Rookies\\EFCore\\EFCore\\appsettings.json",
-              "RelativeDocumentMoniker": "EFCore\\appsettings.json",
-              "ToolTip": "E:\\WORK\\NASHTECH\\Rookies\\EFCore\\EFCore\\appsettings.json",
-              "RelativeToolTip": "EFCore\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABaAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-05-10T04:02:50.753Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "E:\\WORK\\NASHTECH\\Rookies\\EFCore\\EFCore\\Models\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "EFCore\\Models\\ApplicationDbContext.cs",
-              "ToolTip": "E:\\WORK\\NASHTECH\\Rookies\\EFCore\\EFCore\\Models\\ApplicationDbContext.cs",
-              "RelativeToolTip": "EFCore\\Models\\ApplicationDbContext.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABUAAABlAAAA",
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "E:\\WORK\\NASHTECH\\tmp\\Rookies\\EFCore\\EFCore\\Repositories\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "EFCore\\Repositories\\EmployeeRepository.cs",
+              "ToolTip": "E:\\WORK\\NASHTECH\\tmp\\Rookies\\EFCore\\EFCore\\Repositories\\EmployeeRepository.cs",
+              "RelativeToolTip": "EFCore\\Repositories\\EmployeeRepository.cs",
+              "ViewState": "AQIAAH0AAAAAAAAAAAAiwJMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-10T03:59:11.964Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Department.cs",
-              "DocumentMoniker": "E:\\WORK\\NASHTECH\\Rookies\\EFCore\\EFCore\\Models\\Department.cs",
-              "RelativeDocumentMoniker": "EFCore\\Models\\Department.cs",
-              "ToolTip": "E:\\WORK\\NASHTECH\\Rookies\\EFCore\\EFCore\\Models\\Department.cs",
-              "RelativeToolTip": "EFCore\\Models\\Department.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-10T03:55:55.931Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Project.cs",
-              "DocumentMoniker": "E:\\WORK\\NASHTECH\\Rookies\\EFCore\\EFCore\\Models\\Project.cs",
-              "RelativeDocumentMoniker": "EFCore\\Models\\Project.cs",
-              "ToolTip": "E:\\WORK\\NASHTECH\\Rookies\\EFCore\\EFCore\\Models\\Project.cs",
-              "RelativeToolTip": "EFCore\\Models\\Project.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-10T03:55:09.316Z",
+              "WhenOpened": "2024-05-14T19:30:23.668Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Salary.cs",
-              "DocumentMoniker": "E:\\WORK\\NASHTECH\\Rookies\\EFCore\\EFCore\\Models\\Salary.cs",
-              "RelativeDocumentMoniker": "EFCore\\Models\\Salary.cs",
-              "ToolTip": "E:\\WORK\\NASHTECH\\Rookies\\EFCore\\EFCore\\Models\\Salary.cs",
-              "RelativeToolTip": "EFCore\\Models\\Salary.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAjAAAA",
+              "Title": "IEmployeeRepository.cs",
+              "DocumentMoniker": "E:\\WORK\\NASHTECH\\tmp\\Rookies\\EFCore\\EFCore\\Repositories\\Interfaces\\IEmployeeRepository.cs",
+              "RelativeDocumentMoniker": "EFCore\\Repositories\\Interfaces\\IEmployeeRepository.cs",
+              "ToolTip": "E:\\WORK\\NASHTECH\\tmp\\Rookies\\EFCore\\EFCore\\Repositories\\Interfaces\\IEmployeeRepository.cs",
+              "RelativeToolTip": "EFCore\\Repositories\\Interfaces\\IEmployeeRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-10T03:49:39.325Z",
+              "WhenOpened": "2024-05-14T19:29:21.137Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ProjectEmployee.cs",
-              "DocumentMoniker": "E:\\WORK\\NASHTECH\\Rookies\\EFCore\\EFCore\\Models\\ProjectEmployee.cs",
-              "RelativeDocumentMoniker": "EFCore\\Models\\ProjectEmployee.cs",
-              "ToolTip": "E:\\WORK\\NASHTECH\\Rookies\\EFCore\\EFCore\\Models\\ProjectEmployee.cs",
-              "RelativeToolTip": "EFCore\\Models\\ProjectEmployee.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAgAAAA",
+              "DocumentIndex": 0,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "E:\\WORK\\NASHTECH\\tmp\\Rookies\\EFCore\\EFCore\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "EFCore\\Controllers\\EmployeesController.cs",
+              "ToolTip": "E:\\WORK\\NASHTECH\\tmp\\Rookies\\EFCore\\EFCore\\Controllers\\EmployeesController.cs",
+              "RelativeToolTip": "EFCore\\Controllers\\EmployeesController.cs",
+              "ViewState": "AQIAAJIAAAAAAAAAAAAiwK0AAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-10T03:48:02.709Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Employee.cs",
-              "DocumentMoniker": "E:\\WORK\\NASHTECH\\Rookies\\EFCore\\EFCore\\Models\\Employee.cs",
-              "RelativeDocumentMoniker": "EFCore\\Models\\Employee.cs",
-              "ToolTip": "E:\\WORK\\NASHTECH\\Rookies\\EFCore\\EFCore\\Models\\Employee.cs",
-              "RelativeToolTip": "EFCore\\Models\\Employee.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAApAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-10T03:43:19.902Z",
+              "WhenOpened": "2024-05-14T19:21:06.527Z",
               "EditorCaption": ""
             }
           ]

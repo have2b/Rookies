@@ -1,9 +1,10 @@
 ﻿using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
+using System.Text.Json.Serialization;
 
 namespace EFCore.Models
 {
-    [Table("employees")]
+    [Table("Employees")]
     public class Employee
     {
         [Key]
@@ -16,7 +17,9 @@ namespace EFCore.Models
         public Guid DepartmentId { get; set; }
         public DateTime JoinedDate { get; set; } = DateTime.Now;
 
+        [JsonIgnore]
         public virtual Salary? Salary { get; set; }
+        [JsonIgnore]
         public virtual Department? Department { get; set; }
         public virtual ICollection<ProjectEmployee>? ProjectEmployees { get; set; }
     }

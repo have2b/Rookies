@@ -1,5 +1,6 @@
 ﻿using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
+using System.Text.Json.Serialization;
 using Microsoft.EntityFrameworkCore;
 
 namespace EFCore.Models
@@ -16,6 +17,7 @@ namespace EFCore.Models
         [Required, Precision(4, 2)]
         public decimal Amount { get; set; }
 
+        [JsonIgnore]
         public virtual Employee? Employee { get; set; }
     }
 }
