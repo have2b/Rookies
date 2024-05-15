@@ -1,0 +1,135 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\WORK\\NASHTECH\\Rookies\\EF\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CF2E5ED7-9165-48CD-9CAA-22C97E950482}|EF.API\\EF.API.csproj|e:\\work\\nashtech\\rookies\\ef\\ef.api\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF2E5ED7-9165-48CD-9CAA-22C97E950482}|EF.API\\EF.API.csproj|solutionrelative:ef.api\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF2E5ED7-9165-48CD-9CAA-22C97E950482}|EF.API\\EF.API.csproj|e:\\work\\nashtech\\rookies\\ef\\ef.api\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF2E5ED7-9165-48CD-9CAA-22C97E950482}|EF.API\\EF.API.csproj|solutionrelative:ef.api\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF2E5ED7-9165-48CD-9CAA-22C97E950482}|EF.API\\EF.API.csproj|e:\\work\\nashtech\\rookies\\ef\\ef.api\\dtos\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF2E5ED7-9165-48CD-9CAA-22C97E950482}|EF.API\\EF.API.csproj|solutionrelative:ef.api\\dtos\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF2E5ED7-9165-48CD-9CAA-22C97E950482}|EF.API\\EF.API.csproj|e:\\work\\nashtech\\rookies\\ef\\ef.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF2E5ED7-9165-48CD-9CAA-22C97E950482}|EF.API\\EF.API.csproj|solutionrelative:ef.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF2E5ED7-9165-48CD-9CAA-22C97E950482}|EF.API\\EF.API.csproj|e:\\work\\nashtech\\rookies\\ef\\ef.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CF2E5ED7-9165-48CD-9CAA-22C97E950482}|EF.API\\EF.API.csproj|solutionrelative:ef.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF2E5ED7-9165-48CD-9CAA-22C97E950482}|EF.API\\EF.API.csproj|e:\\work\\nashtech\\rookies\\ef\\ef.api\\controllers\\departmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF2E5ED7-9165-48CD-9CAA-22C97E950482}|EF.API\\EF.API.csproj|solutionrelative:ef.api\\controllers\\departmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D7229FD-2BF1-47C3-9E13-CDD623777559}|EF.Domain\\EF.Domain.csproj|e:\\work\\nashtech\\rookies\\ef\\ef.domain\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D7229FD-2BF1-47C3-9E13-CDD623777559}|EF.Domain\\EF.Domain.csproj|solutionrelative:ef.domain\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\WORK\\NASHTECH\\Rookies\\EF\\EF.API\\Program.cs",
+              "RelativeDocumentMoniker": "EF.API\\Program.cs",
+              "ToolTip": "E:\\WORK\\NASHTECH\\Rookies\\EF\\EF.API\\Program.cs",
+              "RelativeToolTip": "EF.API\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T04:36:01.534Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "E:\\WORK\\NASHTECH\\Rookies\\EF\\EF.API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "EF.API\\Properties\\launchSettings.json",
+              "ToolTip": "E:\\WORK\\NASHTECH\\Rookies\\EF\\EF.API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "EF.API\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-14T04:35:29.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DepartmentsController.cs",
+              "DocumentMoniker": "E:\\WORK\\NASHTECH\\Rookies\\EF\\EF.API\\Controllers\\DepartmentsController.cs",
+              "RelativeDocumentMoniker": "EF.API\\Controllers\\DepartmentsController.cs",
+              "ToolTip": "E:\\WORK\\NASHTECH\\Rookies\\EF\\EF.API\\Controllers\\DepartmentsController.cs",
+              "RelativeToolTip": "EF.API\\Controllers\\DepartmentsController.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAAoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T04:34:04.542Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "E:\\WORK\\NASHTECH\\Rookies\\EF\\EF.API\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "EF.API\\Controllers\\EmployeesController.cs",
+              "ToolTip": "E:\\WORK\\NASHTECH\\Rookies\\EF\\EF.API\\Controllers\\EmployeesController.cs",
+              "RelativeToolTip": "EF.API\\Controllers\\EmployeesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T04:29:39.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "E:\\WORK\\NASHTECH\\Rookies\\EF\\EF.Domain\\Entities\\Employee.cs",
+              "RelativeDocumentMoniker": "EF.Domain\\Entities\\Employee.cs",
+              "ToolTip": "E:\\WORK\\NASHTECH\\Rookies\\EF\\EF.Domain\\Entities\\Employee.cs",
+              "RelativeToolTip": "EF.Domain\\Entities\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T04:27:32.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeDTO.cs",
+              "DocumentMoniker": "E:\\WORK\\NASHTECH\\Rookies\\EF\\EF.API\\DTOs\\EmployeeDTO.cs",
+              "RelativeDocumentMoniker": "EF.API\\DTOs\\EmployeeDTO.cs",
+              "ToolTip": "E:\\WORK\\NASHTECH\\Rookies\\EF\\EF.API\\DTOs\\EmployeeDTO.cs",
+              "RelativeToolTip": "EF.API\\DTOs\\EmployeeDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T04:24:54.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeService.cs",
+              "DocumentMoniker": "E:\\WORK\\NASHTECH\\Rookies\\EF\\EF.API\\Services\\EmployeeService.cs",
+              "RelativeDocumentMoniker": "EF.API\\Services\\EmployeeService.cs",
+              "ToolTip": "E:\\WORK\\NASHTECH\\Rookies\\EF\\EF.API\\Services\\EmployeeService.cs",
+              "RelativeToolTip": "EF.API\\Services\\EmployeeService.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAADQAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T04:23:55.506Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
