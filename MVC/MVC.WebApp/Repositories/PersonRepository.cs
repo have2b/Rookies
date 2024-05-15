@@ -42,19 +42,22 @@ namespace MVC.WebApp.Repositories
                 Console.WriteLine($"Error saving persons to CSV: {ex.Message}");
             }
         }
+
         public void Create(Person person)
         {
-            _people.Add(new Person()
-            {
-                Id = new Guid(),
-                FirstName = person.FirstName,
-                LastName = person.LastName,
-                Gender = person.Gender,
-                DateOfBirth = person.DateOfBirth,
-                PhoneNumber = person.PhoneNumber,
-                BirthPlace = person.BirthPlace,
-                IsGraduated = person.IsGraduated
-            });
+            _people.Add(
+                new Person()
+                {
+                    Id = new Guid(),
+                    FirstName = person.FirstName,
+                    LastName = person.LastName,
+                    Gender = person.Gender,
+                    DateOfBirth = person.DateOfBirth,
+                    PhoneNumber = person.PhoneNumber,
+                    BirthPlace = person.BirthPlace,
+                    IsGraduated = person.IsGraduated
+                }
+            );
             SavePersonsToCsv();
         }
 
@@ -74,17 +77,18 @@ namespace MVC.WebApp.Repositories
         {
             var personToUpdate = _people.FirstOrDefault(p => p.Id == person.Id);
 
-            if (personToUpdate != null)
+            if (personToUpdate == null)
             {
-                personToUpdate.FirstName = person.FirstName;
-                personToUpdate.LastName = person.LastName;
-                personToUpdate.Gender = person.Gender;
-                personToUpdate.DateOfBirth = person.DateOfBirth;
-                personToUpdate.PhoneNumber = person.PhoneNumber;
-                personToUpdate.BirthPlace = person.BirthPlace;
-                personToUpdate.IsGraduated = person.IsGraduated;
-                SavePersonsToCsv();
+                return;
             }
+            personToUpdate.FirstName = person.FirstName;
+            personToUpdate.LastName = person.LastName;
+            personToUpdate.Gender = person.Gender;
+            personToUpdate.DateOfBirth = person.DateOfBirth;
+            personToUpdate.PhoneNumber = person.PhoneNumber;
+            personToUpdate.BirthPlace = person.BirthPlace;
+            personToUpdate.IsGraduated = person.IsGraduated;
+            SavePersonsToCsv();
         }
     }
 }

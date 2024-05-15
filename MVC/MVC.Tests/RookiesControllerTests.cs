@@ -160,7 +160,7 @@ namespace MVC.Tests
         }
 
         [Test]
-        public void Create_POST_ValidModel_RedirectsToPersons()
+        public void Create_POSTValidModel_RedirectsToPersons()
         {
             // Arrange
             var newPerson = new Person
@@ -183,7 +183,7 @@ namespace MVC.Tests
         }
 
         [Test]
-        public void Create_POST_InvalidModel_ReturnsViewWithModel()
+        public void Create_POSTInvalidModel_ReturnsViewWithModel()
         {
             // Arrange
             _controller.ModelState.AddModelError("FirstName", "FirstName is required.");
@@ -204,7 +204,7 @@ namespace MVC.Tests
         }
 
         [Test]
-        public void Update_GET_ReturnsViewResultWithPerson()
+        public void Update_GETReturnsViewResultWithPerson()
         {
             // Arrange
             var personId = _people.First().Id;
@@ -221,7 +221,7 @@ namespace MVC.Tests
         }
 
         [Test]
-        public void Update_POST_ValidModel_RedirectsToPersons()
+        public void Update_POSTValidModel_RedirectsToPersons()
         {
             // Arrange
             var personToUpdate = _people.First();
@@ -237,7 +237,7 @@ namespace MVC.Tests
         }
 
         [Test]
-        public void Update_POST_InvalidModel_ReturnsViewWithModel()
+        public void Update_POSTInvalidModel_ReturnsViewWithModel()
         {
             // Arrange
             _controller.ModelState.AddModelError("FirstName", "FirstName is required.");

@@ -104,6 +104,22 @@ namespace MVC.Tests
             Assert.AreEqual(_testData.Count + 1, result.Count);
         }
 
+        [Test]
+        public void Update_UpdatesPersonFromRepository()
+        {
+            // Arrange
+            var people = _repository.GetAll();
+            var personToUpdate = people.First();
+            personToUpdate.FirstName = "Changed";
+
+            // Act
+            _repository.Update(personToUpdate);
+            var result = people.Where(p => p.Id == personToUpdate.Id).FirstOrDefault();
+
+            // Assert
+            Assert.AreEqual(result.FirstName, personToUpdate.FirstName);
+        }
+
 
         [Test]
         public void Delete_RemovesPersonFromRepository()
